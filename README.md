@@ -1,8 +1,8 @@
 # Technical University of Crete - PLH311 - Assignment 1
 
-This is an assignment I completed as an undergraduate student.
+This is an assignment I completed as an undergraduate student, in a team of 2 members.
 
-In the ".zip" file you will find my implementation of 3 shortest path search algorithms under uncertainty.
+In the ".zip" file you will find my team's implementation of 3 shortest path search algorithms under uncertainty.
 
 1) <a href="https://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/viewFile/4017/4357" target="_blank">Uniform Cost Search</a>
 2) <a href="https://en.wikipedia.org/wiki/Iterative_deepening_A*" target="_blank">Iterative Deepening A*</a>
