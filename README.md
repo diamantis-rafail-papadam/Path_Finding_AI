@@ -2,7 +2,7 @@
 
 This is an assignment I completed as an undergraduate student.
 
-In the ".zip" file you will find my implementation of 3 optimal path search algorithms.
+In the ".zip" file you will find my implementation of 3 path search algorithms.
 
 1) Uniform Cost Search (https://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/viewFile/4017/4357)
 2) Iterative Deepening A* Search (https://en.wikipedia.org/wiki/Iterative_deepening_A*)
