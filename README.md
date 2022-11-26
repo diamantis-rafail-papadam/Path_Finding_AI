@@ -8,4 +8,4 @@ In the ".zip" file you will find my implementation of 3 shortest path search alg
 2) Iterative Deepening A* Search (https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 3) Learning Real Time A* Search (https://arxiv.org/pdf/1110.4076.pdf)
 
-You can compile my program by executing "g++ project1.cpp -o project1"
+You can compile my program by executing the command "g++ project1.cpp -o project1" from a terminal.
