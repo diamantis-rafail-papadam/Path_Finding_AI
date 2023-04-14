@@ -9,3 +9,8 @@ In the ".zip" file you will find my team's implementation of 3 shortest path sea
 3) <a href="https://arxiv.org/pdf/1110.4076.pdf" target="_blank">Learning Real Time A*</a>
 
 You can compile my program by executing the command "g++ project1.cpp -o project1" from a terminal.
+
+Note:
+- I've noticed a strange bug where my program works in my Windows machine but not in Ubuntu.
+- I will work on it if I find the time, it's not of great importance since it's a simple project.
+- If you are able to fix this bug feel free to contact me at "diamantispapadam@gmail.com".
