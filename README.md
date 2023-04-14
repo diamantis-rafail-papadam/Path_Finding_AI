@@ -1,4 +1,4 @@
-# Technical University of Crete - PLH311 - Assignment 1
+# Technical University of Crete - PLH311 - Assignment
 
 This is an assignment I completed as an undergraduate student in a team of 2 members.
 
