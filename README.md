@@ -1,6 +1,6 @@
 # Technical University of Crete - PLH311 - Assignment 1
 
-This is an assignment I completed as an undergraduate student, in a team of 2 members.
+This is an assignment I completed as an undergraduate student in a team of 2 members.
 
 In the ".zip" file you will find my team's implementation of 3 shortest path search algorithms under uncertainty.
 
